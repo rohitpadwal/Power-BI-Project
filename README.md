@@ -1,2 +1,2 @@
 # Power-BI-Project
-I developed this dashboard Using power Bi
+ Analysed and created sales interactive dashboard  using Power BI
